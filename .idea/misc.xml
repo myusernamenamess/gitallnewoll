@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/../../gitallnew/git_002_javaweb" />
+    <file type="web" url="file://$PROJECT_DIR$/../gitallnew/git_002_javaweb1" />
+    <file type="web" url="file://D:/gitallnew/git_002_javaweb" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../../gitallnew/git_001_javase/pom.xml" />
-        <option value="$PROJECT_DIR$/../../gitallnew/git_002_javaweb/pom.xml" />
+        <option value="D:/gitallnew/git_001_javase/pom.xml" />
+        <option value="D:/gitallnew/git_002_javaweb/pom.xml" />
+        <option value="$PROJECT_DIR$/../gitallnew/git_002_javaweb/pom.xml" />
       </list>
     </option>
   </component>

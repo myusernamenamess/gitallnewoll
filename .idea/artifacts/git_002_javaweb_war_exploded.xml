@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="git_002_javaweb:war exploded">
-    <output-path>$PROJECT_DIR$/../../gitallnew/git_002_javaweb/target/git_002_javaweb</output-path>
+    <output-path>$PROJECT_DIR$/../gitallnew/git_002_javaweb/target/git_002_javaweb</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -11,13 +11,13 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="git_002_javaweb" />
+          <element id="module-output" name="git_002_javaweb1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/../../gitallnew/git_002_javaweb/target/git_002_javaweb/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/../gitallnew/git_002_javaweb1/target/git_002_javaweb/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="git_002_javaweb/web/Web" />
+      <element id="javaee-facet-resources" facet="git_002_javaweb1/web/Web" />
     </root>
   </artifact>
 </component>

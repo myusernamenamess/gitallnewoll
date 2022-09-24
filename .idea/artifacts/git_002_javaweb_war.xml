@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="git_002_javaweb:war">
-    <output-path>$PROJECT_DIR$/../../gitallnew/git_002_javaweb/target</output-path>
+    <output-path>$PROJECT_DIR$/../gitallnew/git_002_javaweb/target</output-path>
     <properties id="maven-jee-properties">
       <options>
         <module>git_002_javaweb</module>
